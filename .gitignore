@@ -1,0 +1,19 @@
+# Model weights
+*.pt
+models/
+
+# YOLO outputs
+runs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Optional cache
+.ipynb_checkpoints/
+
+# Test images (Ultralytics assets, not ours)
+data/test_images/
