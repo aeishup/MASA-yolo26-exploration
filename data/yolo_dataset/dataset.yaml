@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/yolo_dataset
+train: images/train
+val: images/val
+nc: 2
+names:
+- sperm
+- round_cell

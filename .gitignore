@@ -1,6 +1,6 @@
 # Model weights
 *.pt
-models/
+!weights/best.pt
 
 # YOLO outputs
 runs/
@@ -17,3 +17,5 @@ __pycache__/
 
 # Test images (Ultralytics assets, not ours)
 data/test_images/
+*.cache
+.DS_Store
