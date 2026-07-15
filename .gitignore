@@ -3,7 +3,8 @@
 !weights/best.pt
 
 # YOLO outputs
-runs/
+runs/*
+!runs/masa-sperm-v1-8/
 
 # Python
 __pycache__/
